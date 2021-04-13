@@ -15,7 +15,7 @@ you can import the source project on your IDE or build the jar and push it to yo
 
 ```bash
 git clone https://github.com/rbaoueb/bank-app.git
-cd bank-operations
+cd bank-app
 mvn clean install
 ```
 
@@ -24,7 +24,7 @@ then add the generated dependency to your project pom.xml:
 <dependencies>
     <dependency>
       <groupId>com.mrbaoueb</groupId>
-	  <artifactId>bank-operations</artifactId>
+	  <artifactId>bank-app</artifactId>
       <version>1.0.0</version>
     </dependency>
 </dependencies>
