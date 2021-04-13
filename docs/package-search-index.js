@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.bank.ridha.exception"},{"l":"com.bank.ridha.model"},{"l":"com.bank.ridha.service"},{"l":"com.bank.ridha.util"},{"l":"com.parking.test"}]
